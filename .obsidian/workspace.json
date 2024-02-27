@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "bb2a33495b727a49",
+    "type": "split",
+    "children": [
+      {
+        "id": "c287c05715916873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb83734319b3edcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vim/Jump Tip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a97cac513301fcc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/Base64.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec9f4faef6d2b89d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffc9a2919b3be944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ed28395c487637",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "500b028c2d500d4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fd5691e45f093d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9481b87eb19a8926",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd30c3ee8e01f29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87e74e2281fec9ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linux/Base64.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b69eb82c5fb07f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "linux/Base64.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6835abfe542097cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae58bdf69ed29230",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linux/Base64.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a97cac513301fcc7",
+  "lastOpenFiles": [
+    "images/Pasted image 20240227173748.png",
+    "db/postgres/commands/Row count of all tables.md",
+    "db/postgres/commands/Permission.md",
+    "vim/NvChad.md",
+    "vim/Vim.md",
+    "vim/Jump Tip.md",
+    "images",
+    "vim/Untitled",
+    "business/GP/API/ActionV2.md",
+    "business/DB Migration.md",
+    "business/GP/API",
+    "business/GP",
+    "db/Common Commands.md",
+    "db/postgres/commands",
+    "linux/Base64.md",
+    "vim",
+    "business",
+    "linux",
+    "db/postgres",
+    "db"
+  ]
+}
